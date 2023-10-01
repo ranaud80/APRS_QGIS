@@ -1,0 +1,2 @@
+chan,utime,isotime,source,heard,level,error,dti,name,symbol,latitude,longitude,speed,course,altitude,frequency,offset,tone,system,status,telemetry,comment
+0,1696145201,2023-10-01T07:26:41Z,F4EIR-15,F4EIR-15,31(10/13),0,@,F4EIR-15,/o,48.844167,2.638500,,,,,,,,,,APRS-IS for Win32

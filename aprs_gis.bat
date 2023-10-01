@@ -1,0 +1,1 @@
+rtl_fm -f 144.800M -o 4 -s 48000 | direwolf -r 48000 -L aprs.log -B 1200 -
